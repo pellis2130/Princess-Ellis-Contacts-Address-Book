@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Princess Ellis Contacts Address Book</string>
+
+    <string name="txt_title">Princess Ellis Contacts Address Book</string>
+    <string name="txt_category">A</string>
+
+    <string name="txt_ashley">Ashley Johnson</string>
+    <string name="txt_amanda">Amanda Williams</string>
+
+    <string name="btn_details">View Details</string>
+
+    <string name="ashley_button_description">View details for Ashley Johnson</string>
+    <string name="amanda_button_description">View details for Amanda Williams</string>
+
+    <!-- Ashley Johnson Contact Information -->
+    <string name="ashley_name">Ashley Johnson</string>
+    <string name="ashley_picture">Ashley Johnson contact picture</string>
+    <string name="ashley_address">Address: 123 Main Street, Norfolk, VA 23510</string>
+    <string name="ashley_phone">Phone: (757) 555–1234</string>
+    <string name="ashley_email">Email: ashley@example.com</string>
+
+    <!-- Amanda Williams Contact Information -->
+    <string name="amanda_name">Amanda Williams</string>
+    <string name="amanda_picture">Amanda Williams contact picture</string>
+    <string name="amanda_address">Address: 456 Oak Avenue, Virginia Beach, VA 23451</string>
+    <string name="amanda_phone">Phone: (757) 555–5678</string>
+    <string name="amanda_email">Email: amanda@example.com</string>
+
+</resources>
